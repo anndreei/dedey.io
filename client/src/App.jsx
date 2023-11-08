@@ -10,6 +10,11 @@ import Home from "./pages/home";
 import Login from "./pages/login";
 import Register from "./pages/register";
 
+import Navbar from "./components/navbar";
+import Footer from "./components/footer";
+
+import "./style.scss"
+
 
 
 const Layout = () => {
