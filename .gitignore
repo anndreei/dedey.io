@@ -1,0 +1,9 @@
+# PROJECT FOLDER
+
+**/node_modules
+
+# PROJECT FILES
+
+# SYSTEM FILES
+
+.DS_Store
