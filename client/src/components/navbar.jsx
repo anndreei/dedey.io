@@ -6,7 +6,6 @@ const Navbar = () => {
         <div className="navbar">
             <div className="container">
                 <div className="sidebar-entry">
-                    <img src="../img/Home.png" alt="icon" className="icon" />
                     <h6 className="sidebar-entry-clickable-item-header">Home</h6>
                 </div>
                 <div className="sidebar-entry">
@@ -27,7 +26,7 @@ const Navbar = () => {
                 </div>
             </div>
         </div>
-    )
+    );
 }
 
 export default Navbar;
